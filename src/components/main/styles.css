@@ -1,0 +1,22 @@
+.item {
+  flex: 1;
+  min-width: 240px;
+  max-width: 240px;
+  border-radius: 5px;
+  border: 1px solid #242424;
+  padding: 5px;
+}
+
+.item:hover {
+  border: 1px solid aqua;
+  cursor: pointer;
+}
+
+.item-create {
+  flex: 1;
+  min-width: 240px;
+  max-width: 240px;
+  border-radius: 5px;
+  border: 1px solid #242424;
+  padding: 5px;
+}

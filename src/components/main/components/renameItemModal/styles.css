@@ -1,0 +1,16 @@
+.modal-container {
+  color: black;
+  height: 250px;
+  width: 400px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+#modal-modal-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.create-button-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.create-button-item img:hover {
+  border-radius: 5px;
+  border: 1px solid aqua;
+  cursor: pointer;
+}
